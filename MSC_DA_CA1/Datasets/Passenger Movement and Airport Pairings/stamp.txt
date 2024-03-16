@@ -1,0 +1,88 @@
+"extension": {
+  "matrix": "CTM01",
+  "reasons": [
+      "Unplanned Revision"
+  ],
+  "language": {
+      "code": "en",
+      "name": "English"
+  },
+  "elimination": {
+      "C02354V02832": null,
+      "C02430V02937A": null,
+      "C02430V02937B": null
+  },
+  "contact": {
+      "name": "James Mahon",
+      "email": "tourism@cso.ie",
+      "phone": "(+353) 21 453 5463"
+  },
+  "subject": {
+      "code": 37,
+      "value": "Tourism & Travel"
+  },
+  "product": {
+      "code": "PMAP",
+      "value": "Passenger Movement and Airport Pairings"
+  },
+  "official": true,
+  "copyright": {
+      "name": "Central Statistics Office, Ireland",
+      "code": "CSO",
+      "href": "https://www.cso.ie/"
+  },
+  "exceptional": true,
+  "reservation": false,
+  "archive": false,
+  "experimental": false,
+  "analytical": false
+},
+"href": "https://ws.cso.ie/public/api.restful/PxStat.Data.Cube_API.ReadDataset/CTM01/PX/2013/en",
+"id": [
+  "STATISTIC",
+  "TLIST(M1)",
+  "C02354V02832",
+  "C02430V02937A",
+  "C02430V02937B"
+],
+"label": "Passenger Movement",
+"link": {
+  "alternate": [
+      {
+          "type": "text/csv",
+          "href": "https://ws.cso.ie/public/api.restful/PxStat.Data.Cube_API.ReadDataset/CTM01/CSV/1.0/en"
+      },
+      {
+          "type": "application/json",
+          "href": "https://ws.cso.ie/public/api.restful/PxStat.Data.Cube_API.ReadDataset/CTM01/JSON-stat/2.0/en"
+      },
+      {
+          "type": "application/json",
+          "href": "https://ws.cso.ie/public/api.restful/PxStat.Data.Cube_API.ReadDataset/CTM01/JSON-stat/1.0/en"
+      },
+      {
+          "type": "application/base64",
+          "href": "https://ws.cso.ie/public/api.restful/PxStat.Data.Cube_API.ReadDataset/CTM01/XLSX/2007/en"
+      }
+  ]
+},
+"note": [
+  "Source: data is provided by the following Airports : Donegal, Dublin, Galway, Kerry County, Knock, Cork, Shannon, Sligo and Waterford",
+  "For more information, please go to the [url=https://www.cso.ie/en/statistics/tourismandtravel/]statistical release page[/url] on our website."
+],
+"role": {
+  "metric": [
+      "STATISTIC"
+  ],
+  "time": [
+      "TLIST(M1)"
+  ]
+},
+"size": [
+  1,
+  179,
+  3,
+  1132,
+  9
+],
+"updated": "2021-09-30T14:48:57.310Z",
