@@ -1,0 +1,11 @@
+"label": {
+          "CFN": "Donegal (CFN),Republic Of Ireland",
+          "DUB": "Dublin (DUB),Republic Of Ireland",
+          "GWY": "Galway (GWY),Republic Of Ireland",
+          "KIR": "Kerry County (KIR),Republic Of Ireland",
+          "NOC": "Knock - Ireland West (NOC),Republic Of Ireland",
+          "ORK": "Cork (ORK),Republic Of Ireland",
+          "SNN": "Shannon (SNN),Republic Of Ireland",
+          "SXL": "Sligo (SXL),Republic Of Ireland",
+          "WAT": "Waterford (WAT),Republic Of Ireland"
+        }
